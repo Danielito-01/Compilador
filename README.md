@@ -12,6 +12,10 @@ Compilador desarrollado en **Java** con interfaz gráfica **Swing** para escribi
 - Visualización de errores y tabla de tokens para depuración.
 - Copia automática del código generado al portapapeles.
 
+## Interfaz gráfica
+
+![Interfaz del compilador](Interfaz.png)
+
 ## Tecnologías
 
 - Java (JDK 17 o superior; el proyecto está configurado en IntelliJ IDEA con JDK 26).
